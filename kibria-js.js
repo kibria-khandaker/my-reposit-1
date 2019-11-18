@@ -1,0 +1,1 @@
+console.log('im in for_git_hub_5 & my-reposit-1-my file')
